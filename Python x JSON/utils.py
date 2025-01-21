@@ -1,19 +1,13 @@
 
-def simplify(data, field, data_filer=None):
-    # light version of products
-    #data[field]
-
-     #1. for iterator the list products
-     #2. for each item
-     #3. modifying item for get 5 values keys (give by data_filter)
-        # keys put --> create a new dict with specific attributes
-    items = []
-    for item in data[field]:
-        new_dict = {}
-        print("launch item.items()")
-        print(item.items())
-        for key, value in item.items():
-            if key in data_filer:
+def simplify(data, field, data_filter=None): # data_filter=None: No aplicar filtros de seleccion;
+    
+    items = [] # Objeto Array
+    for item in data[field]: # Bucle con el archivo de la base de datos;
+        new_dict = {} # Crea un nuevo diccionario;
+        print("launch item.items()") # Texto de inicioacion;
+        print(item.items()) # Mostrar contenido dentro del array items
+        for key, value in item.items(): 
+            if key in data_filter:
                 new_dict[key] = value
         if new_dict:
             items.append(new_dict)
