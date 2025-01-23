@@ -15,6 +15,17 @@ def delete(id):
     pass
 def update(item):
     pass
+def count_categories(category: str):
+    # ej count_categories("beauty") --> 5
+    pass
+# sobre el orignal
+def avg_rating() -> list(float):
+    pass
 
+def max_stock() -> tuple[int, int]:
+    pass
+
+def count_tags() -> dict[str, int]:
+    pass
 
 
