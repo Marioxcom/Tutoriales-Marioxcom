@@ -4,7 +4,7 @@ def simplify(data, field, data_filter=None): # data_filter=None: No aplicar filt
     items = [] # Objeto Array
     for item in data[field]: # Bucle con el archivo de la base de datos;
         new_dict = {} # Crea un nuevo diccionario;
-        print("launch item.items()") # Texto de inicioacion;
+        print("launch item.items()") # Texto de iniciacion
         print(item.items()) # Mostrar contenido dentro del array items
         for key, value in item.items(): 
             if key in data_filter:

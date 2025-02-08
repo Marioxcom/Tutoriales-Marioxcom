@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbc33f47-dd72-4751-93a2-2cb04cf84499" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Java/Cadena de Texto/6 _DNI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Cadena de Texto/8_TextoSimetrico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Cadena de Texto/9_TextoInvertido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introducción/ManejoDeArchivos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introducción/Python+JsonConversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introducción/datos/dato1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introducción/datos/dato2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introducción/datos/dato3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Cadena de Texto/Contar Vocales.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Cadena de Texto/1. Contar Vocales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Cadena de Texto/ContenerTodasLasVocales.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Cadena de Texto/2. ContenerTodasLasVocales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Cadena de Texto/SinEspacios.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Cadena de Texto/3. SinEspacios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Cadena de Texto/VecesSubcadenas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Cadena de Texto/4_VecesSubcadenas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRUD/crud.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD/crud.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRUD/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRUD/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introducción/Intro.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2sMPueTseqhlWaNPk26ghZ6oN4Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.crud.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Archivos/Lectores/Python"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbc33f47-dd72-4751-93a2-2cb04cf84499" name="Changes" comment="" />
+      <created>1738262694847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738262694847</updated>
+    </task>
+    <servers />
+  </component>
+</project>
