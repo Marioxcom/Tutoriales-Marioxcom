@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+public class Solution_Solucion {
     String oracion;
     int contMay;
     int contMin;

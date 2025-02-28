@@ -10,6 +10,7 @@
   - HashMap
   - HashSet
 - Herencia
+  - Sealed Class
 
 ## JavaScript
 

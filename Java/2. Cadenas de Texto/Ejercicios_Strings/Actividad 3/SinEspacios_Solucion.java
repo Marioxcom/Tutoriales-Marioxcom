@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SinEspacios {
+public class SinEspacios_Solucion {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         StringBuilder oraciones = new StringBuilder(sc.nextLine());

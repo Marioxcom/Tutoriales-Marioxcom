@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DNI {
+public class DNI_Solucion {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();

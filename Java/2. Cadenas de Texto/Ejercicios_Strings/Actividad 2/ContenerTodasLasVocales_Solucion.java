@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ContenerTodasLasVocales {
+public class ContenerTodasLasVocales_Solucion {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Ingrese su oración: ");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TextoInvertido {
+public class TextoInvertido_Solucion {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         StringBuilder texto = new StringBuilder(sc.nextLine());

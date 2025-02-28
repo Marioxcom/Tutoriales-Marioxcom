@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class TextoSimetrico {
+public class TextoSimetrico_Solucion {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String texto = sc.nextLine().toLowerCase().replaceAll("[^a-z0-9]", "");
