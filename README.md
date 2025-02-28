@@ -5,9 +5,11 @@
 - Variables
 - Arrays
 - Matrices
+- Tipos de Clases
 - Colecciones
   - HashMap
   - HashSet
+- Herencia
 
 ## JavaScript
 
