@@ -3,20 +3,22 @@
 ## Java
 
 - Variables
-- Arrays
-- Matrices
+- Cadenas de Texto
+- Arrays & Matrices
 - Tipos de Clases
+  - Sealed Class
 - Colecciones
+  - ArrayList
   - HashMap
   - HashSet
+  - Streams
 - Herencia
-  - Sealed Class
 
 ## JavaScript
 
-- Variables
-- Opercadores
+- Variables & Operadores
 
 ## Python
 
+- Variables
 - Python x Json
